@@ -1,0 +1,2 @@
+http://115.124.125.42/Tolls/api/2019/t/l,"2017-03-17 13:09:55","{""username"":""IGIA_EID_01"",""password"":""123456789"",""toll_unique_number"":""IGIAirport_28_NH8""}","{""Code"":200,""Info"":{""toll"":{},""user"":{""language_name"":null}}}"
+http://115.124.125.42/Tolls/api/2019/t/l,"2017-03-17 13:10:07","{""username"":""IGIA_EID_01"",""password"":""123456789"",""toll_unique_number"":""IGIAirport_28_NH8""}","{""Code"":200,""Info"":{""toll"":{},""user"":{""language_name"":null}}}"

@@ -1,0 +1,4 @@
+http://115.124.125.42/Tolls/api/2119/u/l,"2016-11-23 17:51:07","{""username"":""vijaykalyan99@yahoo.com"",""password"":""123456"",""timezone"":""Asia\/Calcutta"",""app_version"":""1.7.1""}","{""Code"":498,""Error"":""Incorrect username or password.""}"
+http://115.124.125.42/Tolls/api/2119/u/sre,"2016-11-23 17:06:08","{""user_email"":""vijaykalyan99@yahoo.com"",""timezone"":""Asia\/Calcutta""}","{""Code"":200,""Message"":""Reset Password sent to your email, please check it out""}"
+http://115.124.125.42/Tolls/api/2119/u/sre,"2016-11-23 17:31:08","{""user_email"":""vijaykalyan99@yahoo.com"",""timezone"":""Asia\/Calcutta""}","{""Code"":200,""Message"":""Reset Password sent to your email, please check it out""}"
+http://115.124.125.42/Tolls/api/2119/u/l,"2016-11-23 17:21:09","{""username"":""vijaykalyan99@yahoo.com"",""password"":""123qweasd"",""timezone"":""Asia\/Calcutta"",""app_version"":""1.7.1""}","{""Code"":498,""Error"":""Incorrect username or password.""}"

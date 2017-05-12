@@ -1,0 +1,2 @@
+http://115.124.125.42/Tolls/api/2119/u/exceptionapi,"2016-03-18 02:30:40","{""user_id_"":""189"",""exception_"":""Index 0 out of range [0..0)"",""class_name_"":""HomeScreen"",""method_name_"":""searchLocations""}"
+http://115.124.125.42/Tolls/api/2119/u/exceptionapi,"2016-03-18 02:30:43","{""user_id_"":""189"",""exception_"":""Index 0 out of range [0..0)"",""class_name_"":""HomeScreen"",""method_name_"":""searchLocations""}"

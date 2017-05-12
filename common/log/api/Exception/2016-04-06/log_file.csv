@@ -1,0 +1,1 @@
+http://115.124.125.42/Tolls/api/2119/u/exceptionapi,"2016-04-06 11:28:17","{""exception"":""{\n    code = 0;\n    message = \"There was an error at the server.\";\n    name = \"Internal Server Error\";\n    status = 500;\n}"",""method_name"":""loginbtnClicked"",""class_name"":""LoginViewController""}"

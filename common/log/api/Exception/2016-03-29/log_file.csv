@@ -1,0 +1,3 @@
+http://115.124.125.42/Tolls/api/2119/u/exceptionapi,"2016-03-29 17:35:42","{""user_id_"":""195"",""exception_"":""Index 0 out of range [0..0)"",""class_name_"":""HomeScreen"",""method_name_"":""searchLocations""}"
+http://115.124.125.42/Tolls/api/2119/u/exceptionapi,"2016-03-29 17:36:07","{""user_id_"":""195"",""exception_"":""Index 0 out of range [0..0)"",""class_name_"":""HomeScreen"",""method_name_"":""searchLocations""}"
+http://115.124.125.42/Tolls/api/2119/u/exceptionapi,"2016-03-29 17:36:08","{""user_id_"":""195"",""exception_"":""Index 0 out of range [0..0)"",""class_name_"":""HomeScreen"",""method_name_"":""searchLocations""}"

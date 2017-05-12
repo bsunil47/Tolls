@@ -1,0 +1,6 @@
+http://115.124.125.42/Tolls/api/2119/u/exceptionapi,"2016-04-29 05:10:16","{""user_id_"":""171"",""exception_"":""no position in marker options"",""class_name_"":""HomeScreen"",""method_name_"":""getMyLocation""}"
+http://115.124.125.42/Tolls/api/2119/u/exceptionapi,"2016-04-29 05:10:20","{""user_id_"":""205"",""exception_"":""no position in marker options"",""class_name_"":""HomeScreen"",""method_name_"":""getMyLocation""}"
+http://115.124.125.42/Tolls/api/2119/u/exceptionapi,"2016-04-29 05:10:23","{""user_id_"":""171"",""exception_"":""no position in marker options"",""class_name_"":""HomeScreen"",""method_name_"":""getMyLocation""}"
+http://115.124.125.42/Tolls/api/2119/u/exceptionapi,"2016-04-29 05:10:23","{""user_id_"":""171"",""exception_"":""no position in marker options"",""class_name_"":""HomeScreen"",""method_name_"":""getMyLocation""}"
+http://115.124.125.42/Tolls/api/2119/u/exceptionapi,"2016-04-29 05:16:34","{""user_id_"":""171"",""exception_"":""no position in marker options"",""class_name_"":""HomeScreen"",""method_name_"":""getMyLocation""}"
+http://115.124.125.42/Tolls/api/2119/u/exceptionapi,"2016-04-29 08:41:11","{""user_id_"":""213"",""exception_"":""Attempt to read from field 'double com.google.android.gms.maps.model.LatLng.b' on a null object reference"",""class_name_"":""HomeScreen"",""method_name_"":""getMyLocation""}"

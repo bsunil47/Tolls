@@ -1,0 +1,3 @@
+http://115.124.125.42/Tolls/api/2119/u/exceptionapi,"2016-03-28 05:48:24","{""user_id_"":""192"",""exception_"":""Index 0 out of range [0..0)"",""class_name_"":""HomeScreen"",""method_name_"":""searchLocations""}"
+http://115.124.125.42/Tolls/api/2119/u/exceptionapi,"2016-03-28 06:14:49","{""user_id"":""131"",""exception"":""{\n    code = 0;\n    message = \"There was an error at the server.\";\n    name = \"Internal Server Error\";\n    status = 500;\n}"",""method_name"":""cancelJourneyCancelBtnAction"",""class_name"":""HomeViewController""}"
+http://115.124.125.42/Tolls/api/2119/u/exceptionapi,"2016-03-28 08:15:57","{""user_id_"":""193"",""exception_"":""Index 0 out of range [0..0)"",""class_name_"":""HomeScreen"",""method_name_"":""searchLocations""}"
